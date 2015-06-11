@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12810" started-at="2015-06-11T07:28:46Z" finished-at="2015-06-11T07:28:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12810" started-at="2015-06-11T07:28:46Z" finished-at="2015-06-11T07:28:58Z">
+      <class name="com.softserve.edu.ReadWeather">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.softserve.edu.ReadWeather@2471cca7]" name="setUp" is-config="true" duration-ms="10244" started-at="2015-06-11T10:28:46Z" finished-at="2015-06-11T10:28:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Read()[pri:0, instance:com.softserve.edu.ReadWeather@2471cca7]" name="Read" duration-ms="2551" started-at="2015-06-11T10:28:56Z" finished-at="2015-06-11T10:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Read -->
+      </class> <!-- com.softserve.edu.ReadWeather -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
